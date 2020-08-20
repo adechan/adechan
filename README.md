@@ -1,6 +1,6 @@
 <h2> Hi, I am Ade! <img src="https://media.giphy.com/media/cRLI5pM8yg3tIqZARZ/giphy.gif" width="50"> </h2>
 
-<img align="right" alt="profile" width="200" src="https://i.pinimg.com/564x/71/68/70/716870dde49840093900257d7b0603c9.jpg">
+<img align="right" alt="profile" width="200" src="https://i.pinimg.com/564x/b4/0d/73/b40d734da42d44c30581155c27f58767.jpg">
 <h3> About me </h3>
 <p> I am a hard working, detail-oriented perfectionist who enjoys putting her heart and soul into everything she does. </p>
 
