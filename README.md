@@ -2,7 +2,7 @@
 
 <img align="right" alt="profile" width="200" src="https://i.pinimg.com/564x/b4/0d/73/b40d734da42d44c30581155c27f58767.jpg">
 <h3> <img src="https://media.giphy.com/media/11FMB3s2TTlPwc/giphy.gif" width="80"> About me </h3>
-<p> I am a hard working, detail-oriented perfectionist who enjoys putting her heart and soul into everything she does. </p>
+<p> I'm a hard working, detail-oriented perfectionist who enjoys putting her heart and soul into everything she does. </p>
 
 <h3> 🛠️ Languages & Tools: </h3>
 
