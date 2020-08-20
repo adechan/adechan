@@ -1,4 +1,4 @@
-<h2> Hi, I am Ade! https://media.giphy.com/media/3UPNs8vXyJESQ/giphy.gif 
+<h2> Hi, I am Ade!
   <img src="https://media.giphy.com/media/3UPNs8vXyJESQ/giphy.gif" width="50">
 <h2>
 
