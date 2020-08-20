@@ -1,6 +1,5 @@
-<h2> Hi, I am Ade!
-  <img src="https://media.giphy.com/media/3UPNs8vXyJESQ/giphy.gif" width="50">
-<h2>
+<h2> Hi, I am Ade! <img src="https://media.giphy.com/media/3UPNs8vXyJESQ/giphy.gif" width="50"> <h2>
+<p> I am a hard working, detail-oriented perfectionist who enjoys putting her heart and soul into everything she does. </p>
 
 
 Here are some ideas to get you started:
