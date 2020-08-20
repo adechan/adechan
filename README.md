@@ -1,7 +1,7 @@
-### Hi there 👋
+<h2> Hi, I am Ade! https://media.giphy.com/media/3UPNs8vXyJESQ/giphy.gif 
+  <img src="https://media.giphy.com/media/3UPNs8vXyJESQ/giphy.gif" width="50">
+<h2>
 
-<!--
-**adechan/adechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
