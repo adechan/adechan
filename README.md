@@ -4,7 +4,7 @@
 <h3> <img src="https://media.giphy.com/media/11FMB3s2TTlPwc/giphy.gif" width="80"> About me </h3>
 <p> I am a hard working, detail-oriented perfectionist who enjoys putting her heart and soul into everything she does. </p>
 
-## 🛠️ **Languages & Tools:**
+<h3> 🛠️ Languages & Tools: </h3>
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
